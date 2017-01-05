@@ -28,7 +28,7 @@
     NSLog(@"在主分支修改了");
 }
 - (void)hehe{
-    
+    NSLog(@"haha");
 }
 
 - (void)didReceiveMemoryWarning {
