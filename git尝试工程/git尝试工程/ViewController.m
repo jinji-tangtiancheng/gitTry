@@ -27,12 +27,15 @@
     NSLog(@"chaungjianleyitiaofenzhi");
     NSLog(@"在主分支修改了");
 }
-
+- (void)hehe{
+    
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+
 
 
 @end
