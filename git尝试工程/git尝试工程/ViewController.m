@@ -25,7 +25,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"创建了一条分支");
     NSLog(@"chaungjianleyitiaofenzhi");
-    NSLog(@"在主分支修改了");fds
+    NSLog(@"在主分支修改了");fdsyeyyey
 }
 - (void)hehe{
     NSLog(@"haha");
