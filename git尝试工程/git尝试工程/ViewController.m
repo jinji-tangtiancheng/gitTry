@@ -32,10 +32,10 @@
 }
 
 - (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
+    [super didReceiveMemoryWarning];git tryde
     // Dispose of any resources that can be recreated.
 }
 
 uuuuuuuuuuuuuuuuu
-
+gittryde
 @end
