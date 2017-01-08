@@ -39,9 +39,6 @@
 }
 
 uuuuuuuuuuuuuuuuu
-
-gittryde
-
-gittry1de
+gittry1dehehehehehiui
 
 @end
