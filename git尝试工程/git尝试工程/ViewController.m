@@ -26,6 +26,7 @@
     NSLog(@"创建了一条分支");
     NSLog(@"chaungjianleyitiaofenzhi");
     NSLog(@"在主分支修改了");fdsyeyyey
+    NSLog(@"TTCA1");
 }
 - (void)hehe{
     NSLog(@"hahaxixi");
