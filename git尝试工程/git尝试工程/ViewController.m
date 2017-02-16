@@ -15,6 +15,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    NSLog(@"hehe");
     [super viewDidLoad];
     NSLog(@"1234");
     NSLog(@"jkjkjkj");
